@@ -1,6 +1,6 @@
 # **Ariel Reises**
 
-## OSINT Analyst | Data Scientist Wannabe
+## Python Developer | Data Scientist and Analyst
 
 Sou um profissional com experiência na área administrativa e comercial, focado em Excelência Operacional, Desenvolvimento Pessoal e Gerencial, Governança Corporativa, Liderança e Gestão de Projetos e Equipes. Busco a redução de custos e o atingimento de metas, melhorando a eficiência e eficácia do time.
 Endossado pelas certificações White e Yellow Belt (até o presente momento...), ministradas pela FM2S e chanceladas internacionalmente pela CSSC - Council for Six Sigma Certification.
