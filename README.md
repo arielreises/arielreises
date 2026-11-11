@@ -34,6 +34,10 @@ Outros estudos: [NLP](https://github.com/arielreises/NLP-natural-language-proces
 - **Desenvolvimento e automação:** Git/GitHub, APIs, integração de sistemas, fluxos automatizados e documentação técnica.
 - **Negócios e operações:** melhoria de processos, análise de indicadores e resolução de problemas.
 
+## Registro de software no INPI
+
+- **Chatbot para Agendamento de Exame de Colonoscopia** - registro de programa de computador no INPI, em coautoria, sob o número **BR512025004925-0** (26/08/2025). [Currículo Lattes](http://lattes.cnpq.br/4925930715639661).
+
 ## Formação e desenvolvimento
 
 - **Fatec Jundiaí:** Tecnologia em Ciência de Dados - conclusão prevista em 25/11/2026.
@@ -44,6 +48,7 @@ Outros estudos: [NLP](https://github.com/arielreises/NLP-natural-language-proces
 
 - [Credly - badges e credenciais](https://www.credly.com/users/ariel-reises/badges/credly)
 - [ORCID - identificação acadêmica](https://orcid.org/0009-0003-1468-2655)
+- [Currículo Lattes - CNPq](http://lattes.cnpq.br/4925930715639661)
 
 ## Contato
 
