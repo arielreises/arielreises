@@ -4,7 +4,7 @@
 
 Desenvolvo soluções que conectam **dados, inteligência artificial e processos de negócio**. Minha trajetória combina experiência em operações, gestão e melhoria de processos com projetos práticos em análise de dados, aprendizado de máquina, automação e desenvolvimento de software.
 
-🎓 **Tecnologia em Ciência de Dados — Fatec Jundiaí** · conclusão prevista para **25 de novembro de 2026**.
+🎓 **Tecnologia em Ciência de Dados - Fatec Jundiaí** · conclusão prevista para **25 de novembro de 2026**.
 
 💼 **Aberto a oportunidades profissionais** em Ciência de Dados, Análise de Dados, Engenharia de Dados, Machine Learning, Python e Automação. Também considero posições em tecnologia que aproveitem minha experiência com operações e processos.
 
@@ -18,10 +18,10 @@ Desenvolvo soluções que conectam **dados, inteligência artificial e processos
 | --- | --- |
 | [Chatbot FMJ](https://github.com/arielreises/Chatbot-FMJ) | Automação de comunicação na saúde, com foco na redução do absenteísmo em exames de colonoscopia |
 | [Ciência de Dados aplicada à nosologia psiquiátrica](https://github.com/arielreises/nosologia_psiquiatrica) | Análise de dados e técnicas de agrupamento (clustering) em contexto de pesquisa |
-| [Inteligência Computacional — Fórmula 1](https://github.com/arielreises/InteligenciaComputacional) | Exploração, tratamento e visualização de dados |
-| [Aprendizagem de Máquina II — Fatec](https://github.com/arielreises/aprendizagem-de-maquina-ii-fatec-6-semestre) | Notebooks e atividades de classificação, redes neurais e avaliação de modelos |
-| [AWS Data Lakehouse — demonstração](https://github.com/arielreises/aws-data-lakehouse-pipeline) | Pipeline local com dados sintéticos e arquitetura proposta para S3, Glue, Iceberg e Athena |
-| [AWS MLOps — demonstração](https://github.com/arielreises/aws-mlops-sagemaker-pipeline) | Treinamento e inferência locais, com arquitetura proposta para SageMaker |
+| [Inteligência Computacional - Fórmula 1](https://github.com/arielreises/InteligenciaComputacional) | Exploração, tratamento e visualização de dados |
+| [Aprendizagem de Máquina II - Fatec](https://github.com/arielreises/aprendizagem-de-maquina-ii-fatec-6-semestre) | Notebooks e atividades de classificação, redes neurais e avaliação de modelos |
+| [AWS Data Lakehouse - demonstração](https://github.com/arielreises/aws-data-lakehouse-pipeline) | Pipeline local com dados sintéticos e arquitetura proposta para S3, Glue, Iceberg e Athena |
+| [AWS MLOps - demonstração](https://github.com/arielreises/aws-mlops-sagemaker-pipeline) | Treinamento e inferência locais, com arquitetura proposta para SageMaker |
 
 Outros estudos: [NLP](https://github.com/arielreises/NLP-natural-language-processing) · [Graph Neural Networks](https://github.com/arielreises/Introduction-GNN) · [Estatística Descritiva com Streamlit](https://github.com/arielreises/EstatisticaDescritiva) · [Engenharia de Dados com Python](https://github.com/arielreises/DIO-NTTData-Data-Engineering)
 
@@ -36,7 +36,7 @@ Outros estudos: [NLP](https://github.com/arielreises/NLP-natural-language-proces
 
 ## Formação e desenvolvimento
 
-- **Fatec Jundiaí:** Tecnologia em Ciência de Dados — conclusão prevista em 25/11/2026.
+- **Fatec Jundiaí:** Tecnologia em Ciência de Dados - conclusão prevista em 25/11/2026.
 - **AWS Training and Certification:** atividades práticas e microcredenciais em Data Lakehouse e MLOps.
 - **Formação complementar:** estudos em Python, engenharia de dados, análise de dados e melhoria contínua.
 
@@ -44,7 +44,7 @@ Outros estudos: [NLP](https://github.com/arielreises/NLP-natural-language-proces
 
 Estou disponível para conversar sobre **vagas, projetos e oportunidades de colaboração**.
 
-- [LinkedIn — arielreises](https://www.linkedin.com/in/arielreises/)
+- [LinkedIn - arielreises](https://www.linkedin.com/in/arielreises/)
 - [Página de links e contato](https://arielreises.com.br/links)
 - [Repositórios no GitHub](https://github.com/arielreises?tab=repositories)
 
