@@ -40,6 +40,11 @@ Outros estudos: [NLP](https://github.com/arielreises/NLP-natural-language-proces
 - **AWS Training and Certification:** atividades práticas e microcredenciais em Data Lakehouse e MLOps.
 - **Formação complementar:** estudos em Python, engenharia de dados, análise de dados e melhoria contínua.
 
+## Perfis acadêmicos e certificações
+
+- [Credly - badges e credenciais](https://www.credly.com/users/ariel-reises/badges/credly)
+- [ORCID - identificação acadêmica](https://orcid.org/0009-0003-1468-2655)
+
 ## Contato
 
 Estou disponível para conversar sobre **vagas, projetos e oportunidades de colaboração**.
